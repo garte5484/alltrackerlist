@@ -31,6 +31,8 @@ target?
 target.js
 target.min.js
 gtm.js?
+log?
+sentry.
 
 tns-counter.ru
 counter.yadro.ru
@@ -42,6 +44,9 @@ sape.ru
 acint.net
 app-measurement.com
 luxcdn.com
+stats.rustore.ru
+compute.amazonaws.com
+heytapdl.com
 
 ! modified easylist easyprivacy general list
 gen_204?
