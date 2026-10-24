@@ -49,6 +49,7 @@ compute.amazonaws.com
 heytapdl.com
 heytapmobile.com
 browser.yandex.net
+browser.yandex.ru
 lbs.yandex.net
 icosa-service-sg.allawnos.com
 client2.google.com
@@ -57,6 +58,7 @@ mtalk.google.com
 pa.googleapis.com
 android.apis.google.com
 pool.ntp.org
+userlocation.googleapis.com
 
 ! modified easylist easyprivacy general list
 gen_204?
