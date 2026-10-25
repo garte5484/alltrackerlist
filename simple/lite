@@ -1,4 +1,5 @@
 track
+analyt
 visits
 visitors
 listener
@@ -29,7 +30,6 @@ target?
 target.js
 target.min.js
 gtm.js?
-log?
 
 tns-counter.ru
 counter.yadro.ru
@@ -50,15 +50,12 @@ lbs.yandex.net
 icosa-service-sg.allawnos.com
 client2.google.com
 network-lc.ru
-mtalk.google.com
 pa.googleapis.com
-pool.ntp.org
 userlocation.googleapis.com
 applvn.com
 adjust.net.in
 voodoo-tech.io
 voodoo-gaming.io
-gtglobal.intl.miui.com
 
 ! modified easylist easyprivacy general list
 gen_204?
