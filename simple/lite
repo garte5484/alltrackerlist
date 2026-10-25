@@ -1,5 +1,4 @@
 track
-analyt
 visits
 visitors
 listener
@@ -11,8 +10,6 @@ fingerprint
 beacon
 touch
 tagging
-telemery
-telemetry
 traffic
 trafic
 traxs
@@ -46,7 +43,6 @@ app-measurement.com
 luxcdn.com
 stats.rustore.ru
 compute.amazonaws.com
-heytapdl.com
 heytapmobile.com
 browser.yandex.net
 browser.yandex.ru
@@ -56,7 +52,6 @@ client2.google.com
 network-lc.ru
 mtalk.google.com
 pa.googleapis.com
-android.apis.google.com
 pool.ntp.org
 userlocation.googleapis.com
 applvn.com
