@@ -1,1 +1,1 @@
-EasyList authors: [*link*](https://github.com/easylist)
+EasyList authors: [*link*](https://github.com/easylist).
